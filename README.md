@@ -10,8 +10,7 @@ I'm a passionate Software Developer focused on building fast, scalable backend s
 
 ---
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500px" alt="Developer Coding GIF" />
-</p>
+<img src="https://cdn.dribbble.com/users/722246/screenshots/3066820/dribbble-anim.gif" width="500px" alt="Developer Animation" /></p>
 ### 🛠 Tech Stack
 
 **Backend & Frameworks**
