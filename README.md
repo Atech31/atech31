@@ -9,7 +9,9 @@
 I'm a passionate Software Developer focused on building fast, scalable backend systems and robust web applications. From designing clean database schemes to engineering full-stack solutions—I build backend-heavy apps that scale, perform, and deliver value.
 
 ---
-
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500px" alt="Developer Coding GIF" />
+</p>
 ### 🛠 Tech Stack
 
 **Backend & Frameworks**
