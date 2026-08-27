@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm Abhishek Ahire 👋</h1>
 
-<h3 align="center">Software Developer | Java & Spring Boot Specialist | Building Scalable Systems</h3>
-
+<p align="center">
+  <b>Software Developer | Java & Spring Boot Specialist | Building Scalable Systems</b>
+</p>
 ---
 
 ### 🚀 About Me
