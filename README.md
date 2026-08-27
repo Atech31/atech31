@@ -10,9 +10,10 @@ I'm a passionate Software Developer focused on building fast, scalable backend s
 
 ---
 <p align="center">
-<img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/dribbble_coder.gif" width="500px" alt="Dark Mode Coder" />
-  ### 🛠 Tech Stack
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500px" alt="Developer Coding GIF" />
+</p>
 
+### 🛠 Tech Stack
 **Backend & Frameworks**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
