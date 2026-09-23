@@ -82,8 +82,9 @@ I'm a passionate Software Developer and Data Analytics Engineer focused on build
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atech31&show_icons=true&theme=dark&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atech31&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <img src="https://img.shields.io/github/followers/Atech31?label=Followers&style=for-the-badge&color=0077B5&logo=github" />
+  <img src="https://img.shields.io/github/stars/Atech31?style=for-the-badge&color=F2C811&logo=github" />
+  <img src="https://img.shields.io/github/repos/personal/Atech31?label=Repositories&style=for-the-badge&color=6DB33F&logo=github" />
 </p>
 
 ---
