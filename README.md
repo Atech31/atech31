@@ -1,3 +1,6 @@
+<div align="right">
+  <img src="https://img.shields.io/date/1727123967?color=0055DA&label=IST%20Time&style=for-the-badge&logo=clock&logoColor=white" alt="Live Time" />
+</div>
 <h1 align="center">Hi there, I'm Abhishek Ahire 👋</h1>
 
 <p align="center">
