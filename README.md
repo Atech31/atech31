@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Abhishek Ahire 👋</h1>
 
 <p align="center">
-  <b>Software Developer | Java & Spring Boot Specialist | Building Scalable Systems</b>
+  <b>Software Developer | Java & Spring Boot Specialist | Data Analytics Engineer</b>
 </p>
 
 <p align="center">
@@ -13,11 +13,11 @@
 ---
 
 ### 🚀 About Me
-I'm a passionate Software Developer focused on building fast, scalable backend systems and robust web applications. From designing clean database schemas to engineering full-stack solutions—I build backend-heavy apps that scale, perform, and deliver tangible business value.
+I'm a passionate Software Developer and Data Analytics Engineer focused on building fast, scalable backend systems and intelligent data solutions. From engineering backend architectures to designing relational database schemas and building high-impact analytics dashboards—I develop solutions that scale, perform, and deliver data-driven insights.
 
-* 🔭 **Currently Working On:** Building data-driven analytics platforms & supply chain engines.
-* 🎓 **Core Focus:** Distributed Systems, REST API Design, and Database Optimization.
-* ⚡ **Fun Fact:** I love turning messy relational data into clean, real-time analytics dashboards.
+* 🔭 **Currently Working On:** Building supply chain analytics platforms, financial intelligence suites, and full-stack backend systems.
+* 🎓 **Core Focus:** Distributed Systems, REST API Design, Relational Database Engineering, and Business Intelligence (BI).
+* ⚡ **Fun Fact:** I love taking messy, unstructured datasets and turning them into real-time interactive dashboards and actionable analytics.
 
 ---
 
@@ -27,18 +27,32 @@ I'm a passionate Software Developer focused on building fast, scalable backend s
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Tech Stack & Technical Skills
 
-**Backend & Frameworks** ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+**Backend & Software Development**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**Databases & Storage** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Data Analytics & Machine Learning**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Databases & SQL**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Frontend, Tools & Deployment** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+**Frontend, Deployment & Tools**
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white)
@@ -46,19 +60,22 @@ I'm a passionate Software Developer focused on building fast, scalable backend s
 ---
 
 ### ⚡ What I Do
-* 🏗️ **Architect Scalable Backends:** Develop Enterprise Material Requirements Planning (MRP) engines & robust microservices.
-* 🗄️ **Database Optimization:** Design relational data models, execute complex SQL queries, and manage transactional schemas.
-* 🌐 **Full-Stack Development:** Build end-to-end web applications, interactive analytics platforms, and automated workflow tools.
-* 🔄 **API & Data Pipeline Design:** Craft RESTful APIs with seamless database integrations and dynamic memory processing.
+* 🏗️ **Architect Scalable Backends:** Develop Enterprise Material Requirements Planning (MRP) engines & complex backend systems using Spring Boot & Java.
+* 📊 **Data Analytics & Machine Learning:** Conduct Exploratory Data Analysis (EDA), build interactive Power BI & Streamlit dashboards, and deploy predictive ML classification models.
+* 🗄️ **Database Optimization & ETL:** Design normalized SQL schemas, write complex aggregation queries/views, and execute in-memory SQL processing pipelines.
+* 🌐 **Full-Stack & Interactive Apps:** Build end-to-end web applications, real-time risk simulators, and automated reporting platforms.
 
 ---
 
 ### 📌 Featured Projects
 
-| Project | Tech Stack | Description | Live Demo |
+| Project | Tech Stack | Description | Live App |
 | :--- | :--- | :--- | :---: |
-| **🚚 Supply Chain OS** | `Python`, `Streamlit`, `SQLite`, `Plotly` | Live logistics intelligence platform tracking shipment carrier reliability, warehouse inventory, and delay risks. | [Live App](https://supplyd.streamlit.app/) |
-| **🏨 Hotel Reservation System** | `Java`, `Spring Boot`, `MySQL` | Full-stack reservation engine featuring room availability search, booking management, and relational billing models. | — |
+| **🚚 Supply Chain OS** | `Python`, `Streamlit`, `SQLite`, `Plotly`, `SQL` | Production-ready supply chain analytics platform tracking carrier delays, warehouse inventory health, and real-time shipment transit risk. | [Live App](https://supplyd.streamlit.app/) |
+| **⚡ Customer Churn & Intelligence Platform** | `Python`, `Streamlit`, `Scikit-learn`, `Plotly` | End-to-end churn prediction & customer analytics engine featuring machine learning classification, RFM segmentation, and retention strategies. | [Live App](https://intelligenceplatform.streamlit.app/) |
+| **📊 N100 Financial Intelligence Platform** | `Python`, `Streamlit`, `Pandas`, `Plotly`, `SQL` | Enterprise financial analytics suite visualizing portfolio performance, stock market indices, and risk metrics with real-time interactive charts. | [Live App](https://n100atech31.streamlit.app/) |
+| **📈 BlueStock Mutual Fund Suite** | `Python`, `SQLite`, `Power BI`, `Jupyter` | FinTech data analytics pipeline processing NAV metrics, fund performance, and AUM trends with dynamic Power BI reporting. | [GitHub Repo](https://github.com/Atech31/bluestock-mutual-fund-dashboard-) |
+| **🏨 Hotel Reservation System** | `Java`, `Spring Boot`, `PostgreSQL` | Full-stack reservation engine featuring room availability search, booking management, and relational billing models. | — |
 
 ---
 
