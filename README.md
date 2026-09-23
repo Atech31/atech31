@@ -1,15 +1,3 @@
-<table width="100%" border="0">
-  <tr>
-    <td align="left" valign="middle">
-      <h1>Hi there, I'm Abhishek Ahire 👋</h1>
-    </td>
-    <td align="right" valign="middle" width="80px">
-      <img src="https://media.giphy.com/media/3o7TKsjLu9K100j94w/giphy.gif" width="60px" alt="Analogue Clock" />
-    </td>
-  </tr>
-</table>
-
- 
 <h1 align="center">Hi there, I'm Abhishek Ahire 👋</h1>
 
 <p align="center">
