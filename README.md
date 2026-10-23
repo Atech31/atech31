@@ -94,10 +94,12 @@ I'm a passionate Software Developer and Data Analytics Engineer focused on build
 ---
 
 ### 📫 Let's Connect
-- 🌐 **Portfolio Website:** [atech31.github.io/portfolio](https://atech31.github.io/portfolio/)
-- 📧 **Email:** [abhishekahire2001@gmail.com](mailto:abhishekahire2001@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/abhishek-ahire-b03146236](https://www.linkedin.com/in/abhishek-ahire-b03146236/)
-- 📸 **Instagram:** [@tenacious_abhishek_official196](https://instagram.com/tenacious_abhishek_official196)
+<p align="center">
+  <a href="https://atech31.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/abhishek-ahire-b03146236/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:abhishekahire2001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://instagram.com/tenacious_abhishek_official196"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
 ---
 
