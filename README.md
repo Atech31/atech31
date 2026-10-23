@@ -3,21 +3,14 @@
 <p align="center">
   <b>Software Developer | Java & Spring Boot Specialist | Data Analytics Engineer</b>
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/abhishek-ahire-b03146236/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:abhishekahire2001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://instagram.com/tenacious_abhishek_official196"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
-
 ---
 
-### 🚀 About Me
+### About Me
 I'm a passionate Software Developer and Data Analytics Engineer focused on building fast, scalable backend systems and intelligent data solutions. From engineering backend architectures to designing relational database schemas and building high-impact analytics dashboards—I develop solutions that scale, perform, and deliver data-driven insights.
 
-* 🔭 **Currently Working On:** Building supply chain analytics platforms, financial intelligence suites, and full-stack backend systems.
-* 🎓 **Core Focus:** Distributed Systems, REST API Design, Relational Database Engineering, and Business Intelligence (BI).
-* ⚡ **Fun Fact:** I love taking messy, unstructured datasets and turning them into real-time interactive dashboards and actionable analytics.
+*  **Currently Working On:** Building supply chain analytics platforms, financial intelligence suites, and full-stack backend systems.
+*  **Core Focus:** Distributed Systems, REST API Design, Relational Database Engineering, and Business Intelligence (BI).
+*  **Fun Fact:** I love taking messy, unstructured datasets and turning them into real-time interactive dashboards and actionable analytics.
 
 ---
 
@@ -67,7 +60,7 @@ I'm a passionate Software Developer and Data Analytics Engineer focused on build
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 
 | Project | Tech Stack | Description | Live App |
 | :--- | :--- | :--- | :---: |
@@ -95,9 +88,9 @@ I'm a passionate Software Developer and Data Analytics Engineer focused on build
 
 ### 📫 Let's Connect
 <p align="center">
-  <a href="https://atech31.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/abhishek-ahire-b03146236/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://atech31.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Website " /></a>
   <a href="mailto:abhishekahire2001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/abhishek-ahire-b03146236/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/tenacious_abhishek_official196"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
