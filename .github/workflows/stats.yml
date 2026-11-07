@@ -1,0 +1,36 @@
+name: Update profile stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run stats generator script
+        env:
+          GH_TOKEN: ${{ secrets.GH_STATS_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_stats.py
+
+      - name: Commit updated stats cards
+        run: |
+          git config local user.email "action@github.com"
+          git config local user.name "GitHub Action"
+          git add assets/*.svg
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update profile stats [skip ci]"
+          git push
