@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-label="Abhishek Ahire banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f2027"/>
+      <stop offset="0.5" stop-color="#203a43"/>
+      <stop offset="1" stop-color="#2c5364"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="220" rx="12" fill="url(#bg)"/>
+  <g fill="none" stroke="#00d4ff" stroke-opacity="0.15" stroke-width="1.5">
+    <circle cx="880" cy="60" r="90"/>
+    <circle cx="880" cy="60" r="55"/>
+    <circle cx="120" cy="190" r="70"/>
+  </g>
+  <text x="500" y="100" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#ffffff">Abhishek Ahire</text>
+  <text x="500" y="145" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#9ad9ea">Java &amp; Spring Boot Developer  |  Data Analytics Engineer</text>
+  <text x="500" y="182" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="16" fill="#00d4ff">
+    &lt;/&gt; backends · analytics · machine learning
+    <animate attributeName="opacity" values="0.45;1;0.45" dur="3s" repeatCount="indefinite"/>
+  </text>
+</svg>
