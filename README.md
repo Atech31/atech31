@@ -3,33 +3,29 @@
 <p align="center">
   <b>Software Developer | Java & Spring Boot Specialist | Data Analytics Engineer</b>
 </p>
+
 ---
 
 ### About Me
-I'm a passionate Software Developer and Data Analytics Engineer focused on building fast, scalable backend systems and intelligent data solutions. From engineering backend architectures to designing relational database schemas and building high-impact analytics dashboards—I develop solutions that scale, perform, and deliver data-driven insights.
 
-*  **Currently Working On:** Building supply chain analytics platforms, financial intelligence suites, and full-stack backend systems.
-*  **Core Focus:** Distributed Systems, REST API Design, Relational Database Engineering, and Business Intelligence (BI).
-*  **Fun Fact:** I love taking messy, unstructured datasets and turning them into real-time interactive dashboards and actionable analytics.
+I'm a passionate Software Developer and Data Analytics Engineer focused on building fast, scalable backend systems and intelligent data solutions. From engineering backend architectures to designing relational database schemas and building high-impact analytics dashboards, I develop solutions that scale, perform, and deliver data-driven insights.
 
----
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="480px" alt="Developer Coding GIF" />
-</p>
+* **Currently Working On:** Supply chain analytics platforms, financial intelligence suites, and full-stack backend systems.
+* **Core Focus:** Backend Engineering, REST API Design, Relational Database Engineering, and Business Intelligence (BI).
+* **Fun Fact:** I love taking messy, unstructured datasets and turning them into real-time interactive dashboards and actionable analytics.
 
 ---
 
 ### 🛠 Tech Stack & Technical Skills
 
-**Backend & Software Development**
+**Backend & Software Development**<br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge)
 
-**Data Analytics & Machine Learning**
+**Data Analytics & Machine Learning**<br>
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -38,12 +34,12 @@ I'm a passionate Software Developer and Data Analytics Engineer focused on build
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**Databases & SQL**
+**Databases & SQL**<br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Frontend, Deployment & Tools**
+**Frontend, Deployment & Tools**<br>
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -53,16 +49,17 @@ I'm a passionate Software Developer and Data Analytics Engineer focused on build
 ---
 
 ### ⚡ What I Do
-* 🏗️ **Architect Scalable Backends:** Develop Enterprise Material Requirements Planning (MRP) engines & complex backend systems using Spring Boot & Java.
+
+* 🏗️ **Build Scalable Backends:** Develop backend systems and REST APIs using Spring Boot & Java.
 * 📊 **Data Analytics & Machine Learning:** Conduct Exploratory Data Analysis (EDA), build interactive Power BI & Streamlit dashboards, and deploy predictive ML classification models.
 * 🗄️ **Database Optimization & ETL:** Design normalized SQL schemas, write complex aggregation queries/views, and execute in-memory SQL processing pipelines.
 * 🌐 **Full-Stack & Interactive Apps:** Build end-to-end web applications, real-time risk simulators, and automated reporting platforms.
 
 ---
 
-###  Featured Projects
+### 🚀 Featured Projects
 
-| Project | Tech Stack | Description | Live App |
+| Project | Tech Stack | Description | Link |
 | :--- | :--- | :--- | :---: |
 | **🚚 Supply Chain OS** | `Python`, `Streamlit`, `SQLite`, `Plotly`, `SQL` | Production-ready supply chain analytics platform tracking carrier delays, warehouse inventory health, and real-time shipment transit risk. | [Live App](https://supplyd.streamlit.app/) |
 | **⚡ Enterprise Churn & Revenue Intelligence Platform** | `Python`, `Streamlit`, `Scikit-learn`, `Plotly` | End-to-end churn prediction & customer analytics engine featuring machine learning classification, RFM segmentation, and retention strategies. | [Live App](https://intelligenceplatform.streamlit.app/) |
@@ -70,28 +67,36 @@ I'm a passionate Software Developer and Data Analytics Engineer focused on build
 | **👥 HR & Employee Attrition Intelligence Platform** | `Python`, `Streamlit`, `Scikit-learn`, `Plotly` | People analytics and employee attrition platform driven by predictive ML models to monitor employee retention, workforce demographics, and turnover risk factors. | [Live App](https://hrintelligence.streamlit.app/) |
 | **🛡️ Enterprise Risk & Fraud Intelligence Engine** | `Python`, `Streamlit`, `Scikit-learn`, `Plotly`, `SQL` | Advanced financial and transaction risk analytics platform providing real-time fraud detection simulation, anomaly analysis, and risk scoring. | [Live App](https://enterprisefraud.streamlit.app/) |
 | **📈 BlueStock Mutual Fund Suite** | `Python`, `SQLite`, `Power BI`, `Jupyter` | FinTech data analytics pipeline processing NAV metrics, fund performance, and AUM trends with dynamic Power BI reporting. | [GitHub Repo](https://github.com/Atech31/bluestock-mutual-fund-dashboard-) |
-| **🏨 Hotel Reservation System** | `Java`, `Spring Boot`, `PostgreSQL` | Full-stack reservation engine featuring room availability search, booking management, and relational billing models. | — |
+| **🏨 Hotel Reservation System** | `Java`, `Spring Boot`, `PostgreSQL` | Full-stack reservation engine featuring room availability search, booking management, and relational billing models. | Repo link coming soon |
 
 ---
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atech31&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atech31&theme=dark&hide_border=true" width="48%" alt="GitHub Streak Stats" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Atech31&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com/?user=Atech31&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atech31&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atech31&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
 ---
 
 ### 📫 Let's Connect
+
 <p align="center">
-  <a href="https://atech31.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Website " /></a>
+  <a href="https://atech31.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:abhishekahire2001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/abhishek-ahire-b03146236/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/tenacious_abhishek_official196"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
