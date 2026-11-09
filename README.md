@@ -131,10 +131,9 @@ public class Abhishek {
 ## 📫 Let's Connect
 
  <p align="center">
-  <a href="https://atech31.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-2ea44f?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:abhishekahire2001@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/abhishek-ahire-b03146236/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/tenacious_abhishek_official196"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://atech31.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:abhishekahire2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/abhishek-ahire-b03146236/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
