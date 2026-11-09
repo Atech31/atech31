@@ -131,9 +131,9 @@ public class Abhishek {
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://atech31.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=codewars&logoColor=black" alt="Portfolio" /></a>
-  <a href="mailto:abhishekahire2001@gmail.com"><img src="https://img.shields.io/badge/Email-FF0055?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/abhishek-ahire-b03146236/"><img src="https://img.shields.io/badge/LinkedIn-7928CA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://atech31.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:abhishekahire2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/abhishek-ahire-b03146236/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
